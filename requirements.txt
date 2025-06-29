@@ -12,3 +12,10 @@ yfinance
 accelerate
 fake_useragent
 bs4
+datasets 
+kaggle
+kagglehub
+evaluate
+rouge-score
+bert-score
+nltk
