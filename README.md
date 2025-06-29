@@ -1,6 +1,7 @@
-# PhiNANAgent
-Finantial agent for news summarization based on investment profile. Frist driven LLM for an agent was Phi-2 so there goes the naming.  
-# Fast run of phiNANAgent
+# 🤖PhiNANAgent📈
+Finantial agent for news summarization based on investment profile. Frist driven LLM for an agent was Phi-2 so there goes the naming. The final solution based on `Qwen/Qwen3-0.6B` with reasoning feature. It can use tools to extract info from Yahoo, read related tikers (just set name of a company) articles and summarize them.
+
+# 🚀 Fast run of phiNANAgent
 Run dockerfile:
 ```
 docker build -t phi-agent .
